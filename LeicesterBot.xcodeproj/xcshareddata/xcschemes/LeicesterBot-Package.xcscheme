@@ -60,13 +60,6 @@
             ReferencedContainer = "container:LeicesterBot.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
-      <EnvironmentVariables>
-         <EnvironmentVariable
-            key = "LEICESTER_BOT_TOKEN"
-            value = "1323750881:AAEz0fdvl0UAqvj3YJx6BnF6McKSHyeM9-4"
-            isEnabled = "YES">
-         </EnvironmentVariable>
-      </EnvironmentVariables>
    </LaunchAction>
    <ProfileAction
       buildConfiguration = "Release"
